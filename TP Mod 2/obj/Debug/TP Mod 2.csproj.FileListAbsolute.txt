@@ -1,0 +1,11 @@
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP Mod 2.csproj.AssemblyReference.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP Mod 2.csproj.SuggestedBindingRedirects.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP_Mod_2.Form1.resources
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP_Mod_2.Properties.Resources.resources
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP Mod 2.csproj.GenerateResource.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP Mod 2.csproj.CoreCompileInputs.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\bin\Debug\TP Mod 2.exe.config
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\bin\Debug\TP Mod 2.exe
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\bin\Debug\TP Mod 2.pdb
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP Mod 2.exe
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 2\TP Mod 2\obj\Debug\TP Mod 2.pdb
